@@ -1,0 +1,80 @@
+{
+  "posts": [
+    {
+      "userId": 4,
+      "author": "ahmed eldidamony",
+      "title": "You Don’t Know JS Yet",
+      "description": "Deep dive into JavaScript core concepts.",
+      "imageUrl": "https://m.media-amazon.com/images/I/81kqrwS1nNL.jpg",
+      "id": "eH8BgXa"
+    },
+    {
+      "userId": 5,
+      "author": "ahmed yousry",
+      "title": "clean code",
+      "description": "A handbook of agile software craftsmanship and writing clean, maintainable code",
+      "imageUrl": "https://m.media-amazon.com/images/I/71T7aD3EOTL._UF1000,1000_QL80_.jpg",
+      "id": "u052FWo"
+    },
+    {
+      "userId": 6,
+      "author": "ahmed eldidamony",
+      "title": "Rich Dad Poor Dad",
+      "description": "Lessons on financial intelligence and wealth building",
+      "imageUrl": "https://m.media-amazon.com/images/I/81bsw6fnUiL.jpg",
+      "id": "55pIQFb"
+    },
+    {
+      "userId": 5,
+      "author": "ahmed yousry",
+      "title": "The Pragmatic Programmer",
+      "description": "Classic book that improves your programming mindset and problem-solving skills.",
+      "imageUrl": "https://miro.medium.com/v2/1*COZ1V82frlzkjyUmzXumyA.jpeg",
+      "id": "jWcp0GT"
+    }
+  ],
+  "users": [
+    {
+      "email": "ahmeddidamony9@gmail.com",
+      "password": "$2a$10$chdCdY6RrMle.Un7NfooPu4zKvaVxSeFAnwrA0qYGP5IzYOP6yaom",
+      "firstName": "ahmed",
+      "lastName": "eldidamony",
+      "id": 1
+    },
+    {
+      "email": "ahmeddidamony99@gmail.com",
+      "password": "$2a$10$f2X.DzMsAHwJGrv/YG86vOggmHcdEjxAmeNtmz8fErEo5hC9./Zjy",
+      "firstName": "ahmed",
+      "lastName": "eldidamony",
+      "id": 2
+    },
+    {
+      "email": "ahmeddidamon4y9@gmail.com",
+      "password": "$2a$10$OdTkIo.w76PzQfcBR3aGGuFwcsC5DpL9kmJDxTTK8qQUX9oP/htzy",
+      "firstName": "ahmed",
+      "lastName": "eldidamony",
+      "id": 3
+    },
+    {
+      "email": "ahmeddidamo4n4y9@gmail.com",
+      "password": "$2a$10$RWoyKTBH3TgZLPD4RGuUk.h18kX4pmSGXEO704dN3lcTUg0ljkU9C",
+      "firstName": "ahmed",
+      "lastName": "eldidamony",
+      "id": 4
+    },
+    {
+      "email": "ahmdyosri2@gmail.com",
+      "password": "$2a$10$CWvARQTAd/KxqWGjn9AiG.MzzmnUAyOAVxNwMQ5lsnu17/NJsiAlG",
+      "firstName": "ahmed",
+      "lastName": "yousry",
+      "id": 5
+    },
+    {
+      "email": "ahmeddidamony999@gmail.com",
+      "password": "$2a$10$KVIewaWzMV51Y.Vmo5h6gOEpxyUAh4IC9Nvv7pMDkQMCx93uV0JzG",
+      "firstName": "ahmed",
+      "lastName": "eldidamony",
+      "id": 6
+    }
+  ]
+}
