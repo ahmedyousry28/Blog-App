@@ -4,7 +4,7 @@ import { PlusCircleIcon } from "@heroicons/react/16/solid";
 import { Link } from "react-router";
 import { UserContext } from "../providers/userProvider";
 import useQuery from "../hooks/useQuery";
-import PageContainer from "../components/pageContainer";
+import PageContainer from "../components/PageContainer";
 
 const Home = () => {
   const { userData } = useContext(UserContext);

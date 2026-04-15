@@ -6,7 +6,7 @@ import { postSchema } from "../validation";
 import { UserContext } from "../providers/userProvider";
 import CustomInput from "./CustomInput";
 import CustomButton from "./CustomButton";
-import PageContainer from "./pageContainer";
+import PageContainer from "./PageContainer";
 
 const PostForm = () => {
   const data = useContext(UserContext);
